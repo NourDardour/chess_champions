@@ -5,7 +5,7 @@ This repository contains a Python solution to the chess champions coding challen
 ## Problem Statement
 
 A player is considered a "champion" if:
-1. No other player is both **strictly younger** and has a **higher score**.
+1. No other player is both **strictly younger** and has the *same or *higher score**.
 2. No other player is both **strictly stronger** and of the **same or younger age**.
 
 The goal is to implement a function that extracts all champions from a given list of players efficiently and accurately.
