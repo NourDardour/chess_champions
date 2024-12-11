@@ -41,7 +41,7 @@ players = [
     ("Alice", 30, 2400),
     ("Bob", 28, 2500),
     ("Charlie", 32, 2300),
-    ("Diana", 28, 2500),  # Cas particulier : même âge et score qu'Alice
+    ("Diana", 28, 2500),  # Cas particulier : même âge et score que Bob
 ]
 
 champions = find_champions(players)
