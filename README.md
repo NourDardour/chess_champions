@@ -24,4 +24,4 @@ players = [
     ("Charlie", 32, 2300),
 ]
 
-# Output: [("Bob", 28, 2500), ("Alice", 30, 2400)]
+# Output: [("Bob", 28, 2500)]
